@@ -1,0 +1,1 @@
+The repo contains 3 projects done in React Framework. The projects are very basic and showcase different components of the React framework in action that make it so effective as a very good Front-end Framework 
